@@ -7,6 +7,7 @@ Learn how to build and deploy a microservice in Go.
 1. Structuring a New Golang Project
 1. Developing a Feedback Submission Model
 1. Adding a Command Line Interface
+1. Persisting the Feedback Data
 1. Benchmarking Your Creation For Speed and Concurrency
 1. Expose Your Algorithm via API
 1. Deploying Your First Microservice
