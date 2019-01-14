@@ -13,5 +13,5 @@ Learn how to build and deploy a microservice in Go.
 1. Reaching Your Users with a Slackbot
 1. Integrating with a Single Page Application
 1. Additional Challenges
-  1. Dashboard
+    1. Dashboard
   
